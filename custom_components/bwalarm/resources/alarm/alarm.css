@@ -487,13 +487,13 @@ text-align: left;
   div.digits mwc-button, div.digits paper-icon-button{
     color: var(--arm-button-text-color);
     border-radius: var(--button-shape);
-    min-width: 11vh;
+    width: 16vh;
     height: 11vh;
     padding: 0;
     border: 0px solid var(--arm-button-border-color); /* DS */
 /*    border: 2px solid var(--button-background-color);*/
     background-color: var(--button-background-color);
-    margin: 8px;
+    margin: 4px;
     justify-content: center;/* DS */
     align-items: center;/* DS */
     font-weight: 400;
@@ -599,7 +599,7 @@ text-align: left;
    div.digits mwc-button, div.digits paper-iron-button{
     border-radius: var(--button-shape);
     min-width: 14vh;
-    height: 14vh;
+    height: 5vh;
     border: 0px solid var(--arm-button-border-color); /* DS */
 /*    border: 2px solid var(--button-background-color);*/
     background-color: var(--button-background-color);
