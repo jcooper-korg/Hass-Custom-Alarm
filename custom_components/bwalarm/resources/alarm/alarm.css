@@ -598,8 +598,8 @@ text-align: left;
    }
    div.digits mwc-button, div.digits paper-iron-button{
     border-radius: var(--button-shape);
-    min-width: 14vh;
-    height: 5vh;
+    min-width: 22vh;
+    height: 7vh;
     border: 0px solid var(--arm-button-border-color); /* DS */
 /*    border: 2px solid var(--button-background-color);*/
     background-color: var(--button-background-color);
@@ -607,8 +607,8 @@ text-align: left;
 /*    vertical-align: middle;*/
     justify-content: center;/* DS */
     align-items: center;/* DS */
-    margin: 8px;
-    padding: 5px;
+    margin: 5px;
+    padding: 4px;
     text-align: center;
     font-size: large;
   }
